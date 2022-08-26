@@ -2,29 +2,35 @@
 
 A collection of user stories you can choose from. Stories inside each priority
 level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
+into your strategy. These are also just suggestions, feel free to change them or
 create your own!
 
 ## Must-Haves
 
-> these are necessary for basic usability
+- As a user, I can easily understand what the site is about
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+  - [ ] There is a logo on the top-left of the page
+
+- As a user, I can navigate to other pages of the website using the navbar
+
+  - [ ] There is a navbar on the top-right of the webpage
+
+- As a user, I am able to see the social media links in the footer
+
+  - [ ] There's a footer with social media links
 
 ## Should-Haves
 
-> these will complete the user experience, but are not necessary
+> these will complete the user experience but are not necessary
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- As a user, I can see the title and description of the website
+
+  - [ ] On the main page, there is a title of the web and a description on the
+        left side
+  - [ ] There is an image to support the main text on the right side
 
 ## Could-Haves
 
-> would be really cool ... if there's time
+- As a user, I can see more information about the website
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] There are text and logo(s)
