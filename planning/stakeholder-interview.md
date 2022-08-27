@@ -52,7 +52,6 @@
 - She is a job seeker
 - She doesn't have a website to show her skills and experience
 
-
 ### Summary
 
 She wants to create a portfolio website so that the employers and the recruiters
@@ -126,8 +125,7 @@ Anita wants to demonstrate her skills and experience to the job recruiters
   How are the designs different? How does each one serve your partner differently?
 -->
 
-- [Anita homepage](/public/design-anita.png)
-- ...
+![Anita homepage](../public/design-anita.png)
 
 ---
 

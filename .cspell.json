@@ -1,11 +1,6 @@
 {
   "language": "en",
-  "words": [
-    "anitas",
-    "Sharma",
-    "Wireframe",
-    "wireframes"
-  ],
+  "words": ["anitas", "Sharma", "Wireframe", "wireframes"],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
