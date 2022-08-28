@@ -51,8 +51,10 @@
 - Anita Sharma, age 31, is a junior front-end developer and IT professional
 - She is a job seeker
 - She doesn't have a website to show her skills and experience
+
 - She wants to give an impression to the job-recruiters that she has a
   never-ending learning attitude
+
 
 ### Summary
 
@@ -127,8 +129,10 @@ Anita wants to demonstrate her skills and experience to the job recruiters
   How are the designs different? How does each one serve your partner differently?
 -->
 
-- [Anita homepage](/public/design-anita.png)
-- ...
+
+
+![Anita homepage](../public/design-image.png)
+
 
 ---
 
